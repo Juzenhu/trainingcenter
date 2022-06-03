@@ -14,7 +14,7 @@ $view = $template->exibirViewController();
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>GesP | SMC</title>
+    <title>Controle de Carga</title>
     <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="<?= SERVERURL ?>node_modules/@fortawesome/fontawesome-free/css/all.min.css">
     <!-- Ionicons -->
