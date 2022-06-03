@@ -1,14 +1,15 @@
-<?php
+    <?php
 
 use TrainingCenter\Controllers\EstatisticaController;
 
 ?>
 <!-- Content Header (Page header) -->
+
 <div class="content-header">
     <div class="container-fluid">
         <div class="row mb-2">
             <div class="col-sm-6">
-                <h1 class="m-0 text-dark">Boas vindas ao Training Center</h1>
+                <h1 class="m-0 text-dark">Boas vindas ao Controle de Carga </h1>
             </div><!-- /.col -->
         </div><!-- /.row -->
     </div><!-- /.container-fluid -->
@@ -24,9 +25,11 @@ use TrainingCenter\Controllers\EstatisticaController;
                 <div class="card card-info">
                     <!-- /.card-header -->
                     <div class="card-body">
-                        Start
+                    Nome do usuário <br>
+                    Perfil de Acesso <br>
+                    Limite de acesso
                     </div>
-                    <!-- /.card-body -->
+                  <!-- /.card-body -->
                 </div>
                 <!-- /.card -->
             </div>
